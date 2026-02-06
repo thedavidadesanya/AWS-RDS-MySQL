@@ -15,7 +15,6 @@ AWS VPC. Although public access is enabled for learning purposes, inbound access
 is strictly restricted using security groups to allow connections only from a
 trusted IP address.
 
-![RDS Architecture](architecture/rds-basic-architecture.png)
 <img width="661" height="361" alt="rds architecture drawio" src="https://github.com/user-attachments/assets/16a7d602-8114-4189-b899-9fc79c4d2a47" />
 
 ### Key Components
