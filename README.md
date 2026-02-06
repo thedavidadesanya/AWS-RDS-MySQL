@@ -52,8 +52,9 @@ Connectivity and functionality were verified through the following steps:
 - Execution of SQL queries to confirm read/write access
 
 Screenshots documenting each validation step are included in the repository.
-![SQL Electron Connection](screenshots/sql-electron-connected.png)
-![Database Created](screenshots/create-database.png)
+<img width="760" height="518" alt="sqlelectron-confirmedtest" src="https://github.com/user-attachments/assets/1091a6a3-530c-47e5-85d0-a0b7fe1b4c94" />
+<img width="758" height="516" alt="sqlelectron-connect" src="https://github.com/user-attachments/assets/79abb652-1c2d-4f9d-bc9b-c9b8d15d9c65" />
+
 
 ## Trade-offs & Limitations
 - Public access was enabled to allow direct client connectivity during development.
